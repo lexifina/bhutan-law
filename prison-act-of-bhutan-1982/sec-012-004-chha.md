@@ -1,0 +1,1 @@
+Chha 12-4 The police on duty in hot pursuit of an absconding prisoner should first fire in the air as warning. Despite warning firing, if the prisoner refuses to stop, the police on duty may open fire and try his best to shoot below the knee.

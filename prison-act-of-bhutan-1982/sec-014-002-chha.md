@@ -1,0 +1,1 @@
+Chha 14-2 All prisoners arriving at the Jail for admission must be immediately admitted by the Prison Officer. However, any prisoner arriving after the Jail gate is closed, should not be admitted, but be kept inside the outer gate with proper security.

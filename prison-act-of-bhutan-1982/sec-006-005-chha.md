@@ -1,0 +1,1 @@
+Chha 6-5 If the prisoner so admitted is certified as medically unfit by the Medical Officer, any instrument of restraint should be removed after the approval of the Dungda, Jails (SP) till recovery of the prisoner.

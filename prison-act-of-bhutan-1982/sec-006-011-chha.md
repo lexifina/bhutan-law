@@ -1,0 +1,1 @@
+Chha 6-11 After informing the relatives, the dead body should be kept for a maximum period of three days depending on weather conditions. In case, no one comes to claim it, the body should be cremated by the department after obtaining permission from the Court.

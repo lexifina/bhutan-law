@@ -1,0 +1,1 @@
+Chha 12-3 No Prison Officers can proceed on leave, or treatment or any emergency purpose without the leave being sanctioned by the Dungda, Jails (SP) and a suitable substitution being detailed. The officer detailed as substitution can exercise the same power as given in this Act.

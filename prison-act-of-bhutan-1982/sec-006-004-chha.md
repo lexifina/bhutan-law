@@ -1,0 +1,1 @@
+Chha 6-4 If a special diet is required to be given to the prisoner so admitted for medical treatment as advised by the Medical Officer, the same should be given after due approval of the Dungda, Jails (SP).

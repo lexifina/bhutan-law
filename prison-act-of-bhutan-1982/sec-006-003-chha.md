@@ -1,0 +1,1 @@
+Chha 6-3 If such a sick prisoner is required to be admitted to hospital on advice of the Medical Officer, the Prison officer must immediately report to the Dungda, Jails (SP) to obtain permission and make all effort to provide good medical treatment.

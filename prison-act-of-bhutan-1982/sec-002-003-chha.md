@@ -1,0 +1,2 @@
+# Responsibilities of the different Prison Officers
+Chha 2-3 The duties and responsibilities of the Prison Officers are:- - to maintain the discipline of prisoners; - maintenance of accounts related to ration and clothing of prisoners; - to detail prisoners for work; - to put handcuff; - to enforce prison rules and regulations; - maintenance of cleanliness in Jail premises; - renovation of Jails; and - inspection of Jails.

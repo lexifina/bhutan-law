@@ -1,0 +1,1 @@
+Chha 6-8 In the event of natural death of any prisoner, the Prison Officer must send a copy of cadaver slip to the Dungda, Jails (SP) and to the concerned Court which convicted him and also inform the relatives of the prisoner.

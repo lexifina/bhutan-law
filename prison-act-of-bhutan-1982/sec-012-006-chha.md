@@ -1,0 +1,1 @@
+Chha 12-6 If any prisoner gives information of an attempted escape or setting the Jail on fire to the Prison Officer and such information is confirmed to be true, consideration for reduction of sentence shall be made by the High Court as deemed necessary.

@@ -1,0 +1,1 @@
+Chha 10-9 Whoever violates the above provision shall be charge sheeted to the nearest Court and will be dealt with as per the various provisions of the Law/Acts. CHAPTER ELEVEN Violation of rules, categories of the offences and

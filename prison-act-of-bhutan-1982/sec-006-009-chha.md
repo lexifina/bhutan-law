@@ -1,0 +1,1 @@
+Chha 6-9 If a prisoner dies an unnatural death, the court which convicted the prisoner should be informed immediately and a joint inquest by a Thrimpon and a Medical Officer should be conducted and the relatives informed accordingly.
