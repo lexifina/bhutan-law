@@ -1,0 +1,2 @@
+# Title and preamble
+THE BHUTAN CITIZEN ACT, 1985 {REGISTRATION DIVISION} MINISTRY OF HOME AFFAIRS TASHICHHO DZONG: THIMPHU CIRCULAR The Citizenship Act (1985) of the Royal Government of Bhutan, as enacted by the National Assembly at its 62nd Session 1985 corresponding to Bhutanese Wood Ox year is hereby proclaimed for implementing with effect from the date of its approval by the National Assembly. It supersedes all previous regulation and circular. This may please be brought to the attention of all concerned. Sd/- (N. Wangchuk) Home Minister. THE BHUTAN CITIZENSHIP ACT,
