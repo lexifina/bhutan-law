@@ -1,0 +1,2 @@
+# Title and preamble
+THE JABMI ACT OF THE KINGDOM OF BHUTAN, 2003. PREAMBLE Justice being the primary source of peace in the Kingdom of Bhutan and reaffirming the noble goal in pursuit of Justice and recognising the importance of the assistance of a Jabmi to protect and establish rights in all stages of proceedings, we hereby, amend and consolidate the Law relating to Jabmis and law societies established in respect of the profession of legal practitioners of Bhutan and to provide for matters connected therewith:
