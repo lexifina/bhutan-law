@@ -1,0 +1,2 @@
+# Title and preamble
+THE JUDICIAL SERVICE ACT OF BHUTAN, 2007 Preamble In keeping with His Majesty the Druk Gyalpo's vision for enlightened laws to protect the society, to strengthen and promote the independence and accountability of the Judiciary, to ensure Fair Trial, and to promote the Rule of Law; The National Assembly of Bhutan in its 86th Session held on 16th Day of the 11th Month of the Male Fire Dog Year of the Bhutanese Calendar, corresponding to 4th January, 2007 hereby enacts the Judicial Service Act of Bhutan as follows:
