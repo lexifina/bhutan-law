@@ -1,0 +1,2 @@
+# Title and preamble
+THE LOCAL GOVERNMENTS' ACT OF BHUTAN, 2007 Preamble In order to facilitate direct participation of the people in the development and management of their own social, economic and environmental wellbeing through decentralization and devolution of power and authority; and Recognizing that Local Governments are elected bodies to represent the interests of local communities and to fulfil their aspirations and needs; The National Assembly of Bhutan hereby enacts the Local Governments' Act of Bhutan as follows:
