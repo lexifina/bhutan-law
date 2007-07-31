@@ -1,0 +1,2 @@
+# Title and preamble
+THE CIVIL SOCIETY ORGANIZATIONS ACT OF BHUTAN Preamble WHEREAS, it is expedient to provide for the establishment and registration of Civil Society Organizations to strengthen civil society by developing human qualities and rendering humanitarian services; The National Assembly of Bhutan in its 87th Session held on 5th Day of the 5th Month of the Female Fire Hog Year of the Bhutanese Calendar, corresponding to 20th June, 2007 hereby consolidate and enact the Civil Society Organizations Act of Bhutan.
