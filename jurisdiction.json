@@ -1,0 +1,10 @@
+{
+  "path": "bt",
+  "code": "BT",
+  "name": "Bhutan",
+  "level": "country",
+  "repo": "https://github.com/lexifina/bhutan-law",
+  "build": "built: Constitution 2008, Penal Code 2004, Civil and Criminal Procedure Code 2001, Contract Act 2013 (one version each, as enacted)",
+  "register": "https://claude.ai/artifact/DdS9F6yqpPZtV2i7FGQhYZ",
+  "register_date": "2026-10-28"
+}

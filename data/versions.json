@@ -1,0 +1,61 @@
+{
+ "country": "BT",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Constitution",
+   "title": "The Constitution of the Kingdom of Bhutan",
+   "url": "https://oag.gov.bt/wp-content/uploads/2026/08/Constitution_of_Bhutan.pdf",
+   "versions": [
+    {
+     "from": "2008-07-18",
+     "units": 36,
+     "source_url": "https://oag.gov.bt/wp-content/uploads/2026/08/Constitution_of_Bhutan.pdf",
+     "sha256": "116cda2967afc6665a5b032461addcc5e674fbb30b7b2044e6675fd8b52ef841"
+    }
+   ]
+  },
+  {
+   "slug": "penal-code",
+   "short": "Penal Code",
+   "title": "The Penal Code of Bhutan, 2004",
+   "url": "https://oag.gov.bt/wp-content/uploads/2026/08/Penal-Code-of-Bhutan-2004_English-version_.pdf",
+   "versions": [
+    {
+     "from": "2004-08-11",
+     "units": 515,
+     "source_url": "https://oag.gov.bt/wp-content/uploads/2026/08/Penal-Code-of-Bhutan-2004_English-version_.pdf",
+     "sha256": "7f734e049ad589545f0f2aa3fe67dd43bfc3a7198e01f088f928e353aed7f2c4"
+    }
+   ]
+  },
+  {
+   "slug": "civil-criminal-procedure",
+   "short": "CCPC",
+   "title": "The Civil and Criminal Procedure Code of Bhutan, 2001",
+   "url": "https://oag.gov.bt/wp-content/uploads/2026/08/Civil-and-Criminal-Procedure-Code-of-Bhutan-2001English-version0.pdf",
+   "versions": [
+    {
+     "from": "2001-07-23",
+     "units": 216,
+     "source_url": "https://oag.gov.bt/wp-content/uploads/2026/08/Civil-and-Criminal-Procedure-Code-of-Bhutan-2001English-version0.pdf",
+     "sha256": "032f3f97ebddebbe92bcfdf2ee333505badf589282e90c3820a5d78c7123c736"
+    }
+   ]
+  },
+  {
+   "slug": "contract-act",
+   "short": "Contract Act",
+   "title": "The Contract Act of Bhutan, 2013",
+   "url": "https://oag.gov.bt/wp-content/uploads/2026/08/Contract-Act-of-Bhutan-2013.pdf",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 225,
+     "source_url": "https://oag.gov.bt/wp-content/uploads/2026/08/Contract-Act-of-Bhutan-2013.pdf",
+     "sha256": "5adedab64b982e0cda103c3977d748ac2ce042932dbd51694c2293abf067268f"
+    }
+   ]
+  }
+ ]
+}
