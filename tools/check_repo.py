@@ -52,6 +52,32 @@ def commits_by_act(repo: Path, branch: str, act: str) -> list[tuple[str, str]]:
     return [(h, d.strip()) for h, d in (l.split('\t', 1) for l in out.splitlines()) if d.strip()]
 
 
+def all_commits_by_act(repo: Path, branch: str, acts: list[str]) -> dict[str, list[tuple[str, str]]]:
+    """commits_by_act() for every act from one `git log --name-only` walk instead of one walk per act (a corpus of a
+    few thousand acts spent most of its check time there). Same commits, same order: a commit belongs to an act when
+    it touches a path at or under it; --no-renames lists both sides of a move, as the per-act path filter sees it."""
+    want = set(acts)
+    rows: dict[str, list[tuple[str, str]]] = {a: [] for a in acts}
+    out = git(repo, 'log', '--no-merges', '--no-renames', '--name-only',
+              '--format=%x00%H%x09%(trailers:key=In-force,valueonly,separator=)', branch)
+    for rec in out.split('\x00')[1:]:
+        head, _, names = rec.partition('\n')
+        h, _, d = head.partition('\t')
+        d = d.strip()
+        if not d:
+            continue
+        hit = set()
+        for name in names.splitlines():
+            parts = name.split('/')
+            for i in range(1, len(parts) + 1):
+                p = '/'.join(parts[:i])
+                if p in want:
+                    hit.add(p)
+        for a in hit:
+            rows[a].append((h, d))
+    return rows
+
+
 def state_on(rows: list[tuple[str, str]], day: str) -> str | None:
     for h, d in rows:
         if d <= day:
@@ -107,9 +133,10 @@ def check(repo: Path, corpus: Path) -> dict:
     cat = Cat(repo)
     trees: dict = {}
     mismatches, versions, details = 0, 0, []
+    by_act = all_commits_by_act(repo, future if has_future else 'main', [a['slug'] for a in c['acts']])
     for act in c['acts']:
         slug = act['slug']
-        rows = commits_by_act(repo, future if has_future else 'main', slug)
+        rows = by_act[slug]
         prev = None
         vs = act['versions']
         for i, v in enumerate(vs):

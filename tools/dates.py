@@ -35,7 +35,7 @@ YEAR_WORDS['two thousand'] = 2000
 _yw = '|'.join(sorted((re.escape(k).replace('\\ ', '[ -]+') for k in YEAR_WORDS), key=len, reverse=True))
 YEAR = rf'((?:19|20)\d{{2}}|{_yw})'
 # day [day of] [the] month[,] [of] [the year] year
-P_DMY = re.compile(rf'{DAYW}\s*,?\s*(?:day\s*)?(?:of\s+)?(?:the\s+)?(?:month\s+of\s+)?(?:{MON_NAME}|{MON_NUM})\s*,?\s*(?:month\s*,?\s*)?(?:of\s+|or\s+)?(?:the\s+)?(?:year\s+)?(?:of\s+)?{YEAR}', re.I)
+P_DMY = re.compile(rf'{DAYW}\s*,?\s*(?:day\s*)?(?:of\s+)?(?:the\s+)?(?:month\s+of\s+)?(?:{MON_NAME}|{MON_NUM})\s*,?\s*(?:month\s*,?\s*)?(?:of\s+|or\s+)?(?:the\s+)?(?:year\s+)?(?:of\s+)?{YEAR}\b', re.I)
 # month day, year
 P_MDY = re.compile(rf'{MON_NAME}\s+{NUM}\s*,?\s*{YEAR}', re.I)
 # dd/mm/yyyy or dd.mm.yyyy
@@ -86,7 +86,7 @@ def find_dates(seg: str) -> list[tuple[int, str]]:
 
 
 TRIGGER = re.compile(r'(?:come|came|comes|coming|enter|enters) into (?:force|effect)|with effect from|shall be effective', re.I)
-THIS = re.compile(r'(?:this|the present)\s+(?:Act|Code|Chathrim|Law|Thrimzhung|Constitution)|It shall|shall\s*:', re.I)
+THIS = re.compile(r'\b(?:this|the present)\s+(?:Act|Code|Chathrim|Law|Thrimzhung|Constitution)\b|\bIt shall\b|\bshall\s*:', re.I)
 
 
 def gregorian_after_correspond(seg: str) -> str | None:
