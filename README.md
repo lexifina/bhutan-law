@@ -81,7 +81,31 @@ The law of Bhutan as a git history: one file per provision, one commit per law o
 | `property-tax-act-of-bhutan-2022/` | Property Tax Act of Bhutan 2022 | 1 | In force 1 January 2023 |
 | `civil-liability-act-of-bhutan-2023/` | Civil Liability Act of Bhutan 2023 | 1 | In force 24 July 2023 |
 | `national-digital-identity-act-2023/` | National Digital Identity Act 2023 | 1 | In force 24 July 2023 |
+| `inheritance-act-of-bhutan-1980/` | Inheritance Act of Bhutan 1980 | 1 | 1980-10-01 |
+| `mines-and-minerals-management-act-of-bhutan-1995/` | Mines and Minerals Management Act of Bhutan 1995 | 1 | 1995-09-01 |
+| `bhutan-postal-corporation-act-1999/` | Bhutan Postal Corporation Act 1999 | 1 | 1999-07-27 |
+| `bhutan-municipal-act-1999/` | Bhutan Municipal Act 1999 | 1 | 1999-07-28 |
+| `moveable-and-immovable-property-act-of-the-kingdom-of-bhutan-1999/` | Moveable and Immovable Property Act of the Kingdom of Bhutan 1999 | 1 | 1999-07-28 |
+| `pesticides-act-of-bhutan-2000/` | Pesticides Act of Bhutan 2000 | 1 | 2000-07-14 |
+| `seeds-act-of-bhutan-2000/` | Seeds Act of Bhutan 2000 | 1 | 2000-07-17 |
+| `sales-tax-customs-and-excise-act-of-the-kingdom-of-bhutan-2000/` | Sales Tax, Customs and Excise Act of the Kingdom of Bhutan 2000 | 1 | 2000-07-19 |
+| `the-commercial-sale-of-goods-act-of-the-kingdom-of-bhutan-2001/` | The Commercial Sale of Goods Act of the Kingdom of Bhutan, 2001 | 1 | 2001-07-17 |
+| `dzongkhag-yargay-tshogdu-chathrim-2002/` | Dzongkhag Yargay Tshogdu Chathrim 2002 | 2 | 2002-07-23; 2009-09-11 (repeal) |
+| `national-assembly-committees-act-of-the-kingdom-of-bhutan-2004/` | National Assembly Committees Act of the Kingdom of Bhutan, 2004 | 2 | 2004-07-30; 2015-02-26 (repeal) |
+| `office-of-the-attorney-general-act-of-bhutan-2006/` | Office of the Attorney General Act of Bhutan 2006 | 2 | 2006-06-30; 2015-07-20 (repeal) |
+| `labour-and-employment-act-of-bhutan-2007/` | Labour and Employment Act of Bhutan 2007 | 1 | 2007-02-20 |
+| `local-governance-act-2007/` | Local Governance Act 2007 | 2 | 2007-07-31; 2009-09-11 (repeal) |
+| `tobacco-control-amendment-act-2012/` | Tobacco Control Amendment Act 2012 | 2 | 2012-02-09; 2014-07-08 (repeal) |
+| `biosafety-act-of-bhutan-2015/` | Biosafety Act of Bhutan 2015 | 1 | 2015-07-20 |
+| `entitlement-and-service-conditions-amendment-act-for-the-holders-members-and-commissioners-2015/` | Entitlement and Service Conditions Amendment Act for the Holders Members and Commissioners of Constitutional offices of Bhutan 2015 | 1 | 2015-07-20 |
+| `local-government-members-entitlement-act-of-bhutan-2015/` | Local Government Members Entitlement Act of Bhutan 2015 | 1 | 2015-07-20 |
+| `office-of-the-attorney-general-act-of-bhutan-2015/` | Office of the Attorney General Act of Bhutan 2015 | 1 | 2015-07-20 |
+| `the-companies-act-2016/` | The Companies Act 2016 | 1 | 2016-07-13 |
 
-**Limits.** The Office of the Attorney General publishes each Act as enacted and no consolidated text. Each text here is the Act as enacted, dated by the commencement date it prints (or, when it prints none, the date of passing it prints). An Act amended since shows its original wording from that day; amending Acts are their own folders and their changes are not applied. Later amending Acts (for example the Penal Code and Civil and Criminal Procedure Code Amendment Acts of 2011 and 2021) are not applied yet, so for those two codes this is the oldest version available, not the text in force today. The Constitution has not been amended. Dates are the Gregorian dates each Act prints; the Bhutanese-calendar dates are not converted. Left out: Dzongkha-only files, scans with no English text layer, Acts that print no Gregorian date, Acts whose section numbering or words do not read cleanly from the PDF, and Acts repealed by another Act in the Depository (repeals made by laws not in the Depository may be missed). Chapter headings are kept as heading lines inside the section that follows them.
+**Limits.** The Office of the Attorney General publishes each Act as enacted and no consolidated text. Each text here is the Act as enacted, dated by the commencement date it prints (or, when it prints none, the date of passing it prints). An Act amended since shows its original wording from that day; amending Acts are their own folders and their changes are not applied. Later amending Acts (for example the Penal Code and Civil and Criminal Procedure Code Amendment Acts of 2011 and 2021) are not applied yet, so for those two codes this is the oldest version available, not the text in force today. The Constitution has not been amended. Dates are the Gregorian dates each Act prints; the Bhutanese-calendar dates are not converted. Left out: Dzongkha-only files, scans with no English text layer, Acts that print no Gregorian date, Acts whose section numbering or words do not read cleanly from the PDF, and Acts whose effective dates cannot be established from the printed Gregorian date. Chapter headings are kept as heading lines inside the section that follows them.
 
 Official texts are excluded from copyright by section 7(b) of the Copyright Act 2001 (see `LICENSE`). `REPRODUCE.md` says how the repository was made and checked. This is not legal advice.
+
+Twenty further English Acts are included as enacted, with complete text files where provision boundaries are unreliable. Five carry a later empty version for a whole-Act repeal expressly printed in another official Act. The 2005 Narcotics Act is held because its calendar labels conflict; the Thromde Act 2007 is held because its government commencement notification has not been verified. The Municipal Act has no asserted repeal date.
+
+The Local Governance Act 2007 and Dzongkhag Yargay Tshogdu Chathrim 2002 are repealed from 11 September 2009 under the Local Government Act 2009 section 2 (upon enactment). Its preamble identifies that enactment date; its general commencement date is separately 15 March 2010. Prescribed declaration and oath blanks are retained from the official texts.
