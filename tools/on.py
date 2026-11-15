@@ -70,7 +70,14 @@ def _sub(path: str, table: dict[str, str]) -> str:
 
 def to_new(path: str, repo=None) -> str:
     """A path (or act) under its act's folder now (unchanged without data/paths.json)."""
-    return _sub(path, paths(repo)) if paths(repo) else path
+    p = paths(repo)
+    if not p:
+        return path
+    # A path already under an act's folder now stays as it is: an id can be the start of its own folder
+    # (constitution -> constitution/constitution), and mapping it again would nest the folder twice.
+    if any(_under(path, v) for k, v in p.items() if v != k):
+        return path
+    return _sub(path, p)
 
 
 def act_id(act: str, repo=None) -> str:
