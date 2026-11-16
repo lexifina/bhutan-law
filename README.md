@@ -82,6 +82,10 @@ See [`LICENSE`](LICENSE). Section 7(b) of the Copyright Act of the Kingdom of Bh
 
 No AI model wrote, translated or corrected legal text, and no model runs when the history is built; the scripts were written by AI models (Claude, and OpenAI Codex for the PDF reading) under Lexifina's direction (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+- [visualisations/](visualisations/): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
