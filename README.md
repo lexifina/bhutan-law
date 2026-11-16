@@ -61,6 +61,7 @@ Each Act as enacted is credited to the Act itself (`Labour and Employment Act of
 - An Act split into sections is kept only if they are numbered without a gap and hold every word of the source's English lines, in order and with none added.
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before, and compares it with the corpus (its run is not yet recorded in [`REPRODUCE.md`](REPRODUCE.md)); a second build from the same corpus gave identical hashes for all 99 law commits and 195 tags.
 - History is append-only: new Acts and versions go on top (`tools/append.py`), and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.md): possible drafting mistakes in Bhutanese law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
